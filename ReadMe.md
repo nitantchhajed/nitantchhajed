@@ -21,10 +21,8 @@ Hii !! I'am Nitant.<br>I'am a blockchain Engineer.<br>I'm currently working on L
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nitantchhajed&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nitantchhajed&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
