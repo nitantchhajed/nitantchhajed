@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii !! I'am Nitant.<br>I'am a blockchain Engineer.<br>I'm currently working on L2.<br>contributor @ethereum-optimism<br>
+Hii !! I'am Nitant.<br>I'am a blockchain Engineer.<br>I'm currently working on L2.<br>Open source contributor<br>
 
 
 ## 🌐 Socials:
