@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii !! I'am Nitant.<br>I'am a blockchain Engineer.<br>I'm currently working on L2.<br>Open source contributor.<br>From India :)
+Hii !! I'am Nitant.<br>I'am a blockchain Engineer.<br>I'm currently working on L2.<br>Open source contributor.<br>From India 
 
 
 ## 🌐 Socials:
